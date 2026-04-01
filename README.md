@@ -20,7 +20,7 @@ Lan Scan Lite 是一款轻量级、无需安装（绿色单文件）的局域网
 进入右侧的 **[Releases](https://github.com/jason-vr3/LanScan-lite/releases)** 页面，下载最新的 `LanScan-lite.exe`，双击即可直接运行，无需安装 Python 环境。
 
 **方式二：通过微软商店安装**
-您可以在 Windows 10/11 的 Microsoft Store 中搜索 `Lan Scan Lite` 获取具备完整沙盒安全防护的应用商店版本。
+您可以在 Windows 10/11 的 Microsoft Store 中搜索  **[Lan Scan Lite - 局域网扫描仪](https://apps.microsoft.com/detail/9nfx7brxnt2c?hl=zh-CN&gl=US)** 获取具备完整沙盒安全防护的应用商店版本。
 
 ## 👨‍💻 开发者 (Author)
 * **Jason / vr3**
