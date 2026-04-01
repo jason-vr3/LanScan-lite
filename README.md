@@ -21,10 +21,10 @@ Lan Scan Lite 是一款轻量级、无需安装（绿色单文件）的局域网
 
 ## 📥 下载与使用 (Download & Usage)
 
-**方式一：直接下载绿色版 (推荐)**
-进入右侧的 **[Releases](https://github.com/jason-vr3/LanScan-lite/releases)** 页面，下载最新的 `LanScan-lite.exe`。
+**方式一：绿色版 (推荐)**
+右侧的 **[Releases](https://github.com/jason-vr3/LanScan-lite/releases)** 页面，下载最新的 `LanScan-lite.exe`。
 
-**方式二：通过微软商店安装**
+**方式二：微软商店**
  Microsoft Store 中搜索  **[Lan Scan Lite - 局域网扫描仪](https://apps.microsoft.com/detail/9nfx7brxnt2c?hl=zh-CN&gl=US)** 获取具备完整沙盒安全防护的应用商店版本。
 
 ## 👨‍💻 开发者 (Author)
