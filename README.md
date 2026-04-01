@@ -1,0 +1,27 @@
+# 📡 Lan Scan Lite (网络排障专家)
+
+![Platform](https://img.shields.io/badge/Platform-Windows-blue)
+![Python](https://img.shields.io/badge/Python-3.11+-green)
+![License](https://img.shields.io/badge/License-Free-orange)
+
+Lan Scan Lite 是一款轻量级、无需安装（绿色单文件）的局域网 IP 扫描与网络排障工具。专为 IT 运维、网络工程师以及极客开发者设计，提供极速的存活主机探测与实用的网络计算功能。
+
+## ✨ 核心功能 (Features)
+
+* **📍 极速存活主机扫描**：基于多线程的高效 Ping 扫描，支持自定义线程数、超时时间与 CPU 占用控制。
+* **📊 全面设备信息解析**：精准解析存活主机的 IP 地址、物理 MAC 地址、响应时延，并尝试解析主机名。
+* **🧮 IPv4 / IPv6 子网计算器**：输入 IP 与掩码，瞬间计算出可用 IP 总数、网络地址、广播地址及可用 IP 范围。
+* **📡 全息网卡侦测**：一键探测本机所有网卡的物理状态、首选 IP、DNS 与路由信息。
+* **🚀 绿色免安装**：提供完全独立的单文件 `.exe`，拷入 U 盘即可在任何 Windows 设备上直接运行。
+
+## 📥 下载与使用 (Download & Usage)
+
+**方式一：直接下载绿色版 (推荐)**
+进入右侧的 **[Releases](https://github.com/jason-vr3/LanScan-lite/releases)** 页面，下载最新的 `LanScan-lite.exe`，双击即可直接运行，无需安装 Python 环境。
+
+**方式二：通过微软商店安装**
+您可以在 Windows 10/11 的 Microsoft Store 中搜索 `Lan Scan Lite` 获取具备完整沙盒安全防护的应用商店版本。
+
+## 👨‍💻 开发者 (Author)
+* **Jason / vr3**
+* 联系方式: jason_vr3@hotmail.com
