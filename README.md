@@ -13,7 +13,7 @@ Lan Scan Lite 是一款轻量级、无需安装（绿色单文件）的局域网
 * **📊 信息解析**：精准解析存活主机的 IP 地址、物理 MAC 地址、首选 IP、DNS 与路由信息、解析主机名。
 * **🧮 IPv4 / IPv6 子网计算器**：输入 IP 与掩码，瞬间计算出可用 IP 总数、网络地址、广播地址及可用 IP 范围。
 
-<img width="800" height="640" alt="image" src="https://github.com/user-attachments/assets/c7c8673d-2a54-423d-ae6e-635ca32b55e4" />
+<img width="640" height="480" alt="image" src="https://github.com/user-attachments/assets/c7c8673d-2a54-423d-ae6e-635ca32b55e4" />
 
 
 
